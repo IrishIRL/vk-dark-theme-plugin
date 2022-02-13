@@ -1,0 +1,23 @@
+{
+
+  "description": "Adds a dark theme for the VK.",
+  "manifest_version": 2,
+  "name": "vk-dark-theme",
+  "version": "1.0",
+  "homepage_url": "",
+
+  "background": {
+    "scripts": ["dark-theme.js"]
+  },
+
+  "page_action": {
+    "default_icon": "icons/off.svg",
+    "browser_style": true
+  },
+  
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+
+}
