@@ -1,3 +1,6 @@
+Plugin is most probably discontinued, since I do not plan to use VK anymore.
+Unfortunately, I did not have enough time to make everything I wanted, but the privacy is more important.
+
 ## What it does
 Since VK does not have a dark theme in web, desided to make a small plugin for that purpose. Plugin is made for Mozilla plugin.
 This extension changes CSS color elements to the inverted colors.
